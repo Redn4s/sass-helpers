@@ -1,0 +1,16 @@
+// Z-index functions
+// ---
+//
+// ------------------------------------------------------------------------- /
+
+// Layer
+// ------------------------------------------------------------------------- /
+@function layer($_layer) {
+
+	@if not map-has-key($z-indices, $_layer) {
+
+		@warn "The layer `#{$_layer}` couldn't be found in the $z-indices map.";
+	}
+
+	@return map-get($z-indices, $_layer);
+}
