@@ -12,5 +12,8 @@
     "Glenn Verschooren <glenn.verschooren@studiohyperdrive.be>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Redn4s/sass-helpers#readme"
+  "homepage": "https://github.com/Redn4s/sass-helpers#readme",
+  "devDependencies": {
+    "@studiohyperdrive/stylelint-config": "^1.0.8"
+  }
 }
