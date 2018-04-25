@@ -1,5 +1,9 @@
 // -------------------------------------------------------------------
-// :: HELPERS
+// :: TYPOGRAPHY OVERFLOW HELPERS
 // -------------------------------------------------------------------
 
-@import "helpers/_typography";
+.u-text-truncate {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
