@@ -1,0 +1,16 @@
+{
+  "name": "@studiohyperdrive/sass-helpers",
+  "version": "1.0.0",
+  "description": "Just a bunch of Sass variables, functions, mixins and helpers classes to help speed up development.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redn4s/sass-helpers.git"
+  },
+  "author": "Sander Geenen <sander.geenen@studiohyperdrive.be>",
+  "contributors": [
+    "Andry Charlier <andry.charlier@studiohyperdrive.be>",
+    "Glenn Verschooren <glenn.verschooren@studiohyperdrive.be>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Redn4s/sass-helpers#readme"
+}
